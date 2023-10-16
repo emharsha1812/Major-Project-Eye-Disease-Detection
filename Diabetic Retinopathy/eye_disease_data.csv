@@ -1,0 +1,4 @@
+Data Type,Normal,Mild,Moderate,Severe,Proliferative
+train,780,704,747,551,496
+test,211,179,192,127,106
+valid,211,180,199,126,106
